@@ -10,6 +10,10 @@ In this project, I will be coding 💻  various **Embedded Application** to impr
 
 **• Day 1:** LED Blinking
 
+**• Day 2:** DC Motor
+
+
+
 ....will be continued.....
 
               
