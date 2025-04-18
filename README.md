@@ -12,6 +12,9 @@ In this project, I will be coding 💻  various **Embedded Application** to impr
 
 **• Day 2:** DC Motor
 
+**• Day 3:** Key Switch Led
+
+
 
 
 ....will be continued.....
