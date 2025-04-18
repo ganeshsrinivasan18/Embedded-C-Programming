@@ -38,7 +38,7 @@ This repository is open-source and available under the **MIT License**. See the 
 - **Microcontrollers**: Projects are developed using microcontrollers like **STM32**, **8051**, **AVR**, and more. 🔧
 
 ## Contact 📬
-Feel free to reach out if you have any questions, suggestions, or feedback regarding the content of this repository. You can contact me at [your-email@example.com](mailto:ganeshsrinivasan1803email@gmail.com). 📧
+Feel free to reach out if you have any questions, suggestions, or feedback regarding the content of this repository. You can contact me at (mailto:ganeshsrinivasan1803email@gmail.com). 📧
 
 ---
 
