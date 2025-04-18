@@ -20,6 +20,9 @@ This section will be updated regularly with each new project added. Here's what 
 - **Project 2**: DC Motor
 - **Project 3**: Key Switch Led
 
+  
+  .... To be Continued....
+
 ## Contributing 🤝
 Feel free to fork this repository and contribute with your own projects or improvements. To contribute:
 1. Fork the repository. 🍴
