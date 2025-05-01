@@ -24,6 +24,7 @@ This section will be updated regularly with each new project added. Here's what 
 - **Project 3**: Key Switch Led
 - **Project 4**: Squarewave Generation
 - **Project 5**: 16X2 LCD Display
+- **Project 6**: 7 Segment Display
 
 
   
